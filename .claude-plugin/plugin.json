@@ -1,0 +1,6 @@
+{
+  "name": "context-kit",
+  "description": "Turn a Substack newsletter's archive into living AI writing-context. Onboard, distill a source-of-truth Brief and an operational Voice Profile, then brainstorm, editorially review, and polish — as a guardrail that keeps your writing yours, never a generator.",
+  "version": "0.1.0",
+  "author": { "name": "Lorenzo Ancona" }
+}

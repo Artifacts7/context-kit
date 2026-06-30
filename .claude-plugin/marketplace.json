@@ -1,0 +1,12 @@
+{
+  "name": "context-kit",
+  "description": "Context Kit — build AI writing-context from your newsletter (v1: Substack).",
+  "owner": { "name": "Lorenzo Ancona" },
+  "plugins": [
+    {
+      "name": "context-kit",
+      "source": ".",
+      "description": "Onboard a newsletter, distill a Brief + Voice Profile, then brainstorm / review / polish as a guardrail."
+    }
+  ]
+}

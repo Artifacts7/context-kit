@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "test -d newsletter-context && echo '↻ Context Kit: if this session changed how you see or write your newsletter, run /context-kit:compound to fold the essentials into your Brief / Voice Profile.' || true"
+          }
+        ]
+      }
+    ]
+  }
+}
