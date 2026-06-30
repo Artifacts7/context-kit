@@ -9,7 +9,7 @@ Most people bounce off AI writing tools because of the cold start: they run the 
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add <your-github-repo>
+/plugin marketplace add Artifacts7/context-kit
 /plugin install context-kit@context-kit
 ```
 
